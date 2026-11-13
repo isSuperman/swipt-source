@@ -8,7 +8,7 @@
         "zh-Hant": "汽水音樂免費聽",
         "en": "Soda Free Listening"
       },
-      "version": "0.1.0",
+      "version": "0.2.0",
       "versionCode": 2,
       "icon": {
         "color": "green",
@@ -25,7 +25,7 @@
       ],
       "url": "soda-free-listen-0.2.0.swiplet",
       "size": 14430,
-      "sha256": "29b6005d1d4596c2b9bfd44dfd74794145fa6bb4ac66c78c4fee4deed42fb50e"
+      "sha256": "a82f0b796444aa784a727338545d5bc7922c9fe41699d6136a10b532ca9ab336"
     }
   ]
 }
