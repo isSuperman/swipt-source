@@ -2,14 +2,14 @@
   "swiplets": [
     {
       "id": "soda-free-listen",
-      "name": "汽水音乐免费听",
+      "name": "汽水广告辅助",
       "localizedNames": {
-        "zh-Hans": "汽水音乐免费听",
-        "zh-Hant": "汽水音樂免費聽",
-        "en": "Soda Free Listening"
+        "zh-Hans": "汽水广告辅助",
+        "zh-Hant": "汽水廣告輔助",
+        "en": "Soda Ad Helper"
       },
-      "version": "0.3.0",
-      "versionCode": 4,
+      "version": "0.3.1",
+      "versionCode": 5,
       "icon": {
         "color": "green",
         "symbol": "music.note"
@@ -23,9 +23,9 @@
           "description": "自动连续观看激励视频并领取免费听歌时长，达到上限后停止"
         }
       ],
-      "url": "soda-free-listen-0.3.0.swiplet",
-      "size": 15143,
-      "sha256": "a6b8d8ed14a35288742dc460163904bc9dcae3195fcf847d2e56f5d5215d07f8"
+      "url": "soda-free-listen-0.3.1.swiplet",
+      "size": 15139,
+      "sha256": "f4c1c570e92dad0b6d22e70ffaa4d55bf0e4ec2ca502ef441d934b353f6463ca"
     }
   ]
 }
