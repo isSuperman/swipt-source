@@ -1,0 +1,31 @@
+{
+  "swiplets": [
+    {
+      "id": "soda-free-listen",
+      "name": "汽水音乐免费听",
+      "localizedNames": {
+        "zh-Hans": "汽水音乐免费听",
+        "zh-Hant": "汽水音樂免費聽",
+        "en": "Soda Free Listening"
+      },
+      "version": "0.1.0",
+      "versionCode": 1,
+      "icon": {
+        "color": "green",
+        "symbol": "music.note"
+      },
+      "minimumAPILevel": 2,
+      "minimumIOSVersion": 17.4,
+      "actions": [
+        {
+          "name": "start",
+          "title": "开始攒免费听",
+          "description": "自动连续观看激励视频并领取免费听歌时长，达到上限后停止"
+        }
+      ],
+      "url": "soda-free-listen.swiplet",
+      "size": 14429,
+      "sha256": "286d0fa901fe536d30cc549e1b4830b6ca32aaefe889e8a21562ea88afe0f474"
+    }
+  ]
+}
