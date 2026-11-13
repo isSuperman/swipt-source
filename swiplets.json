@@ -9,7 +9,7 @@
         "en": "Soda Free Listening"
       },
       "version": "0.1.0",
-      "versionCode": 1,
+      "versionCode": 2,
       "icon": {
         "color": "green",
         "symbol": "music.note"
@@ -23,9 +23,9 @@
           "description": "自动连续观看激励视频并领取免费听歌时长，达到上限后停止"
         }
       ],
-      "url": "soda-free-listen.swiplet",
-      "size": 14429,
-      "sha256": "46c23ebaf28764b9a662103e2ba4008e9a6f1f813c9fff449ef299060055146d"
+      "url": "soda-free-listen-0.2.0.swiplet",
+      "size": 14430,
+      "sha256": "29b6005d1d4596c2b9bfd44dfd74794145fa6bb4ac66c78c4fee4deed42fb50e"
     }
   ]
 }
