@@ -8,8 +8,8 @@
         "zh-Hant": "汽水廣告輔助",
         "en": "Soda Ad Helper"
       },
-      "version": "0.6.2",
-      "versionCode": 10,
+      "version": "0.7.0",
+      "versionCode": 12,
       "icon": {
         "color": "green",
         "symbol": "music.note"
@@ -23,9 +23,9 @@
           "description": "自动连续观看激励视频并领取免费听歌时长，达到上限后停止"
         }
       ],
-      "url": "soda-free-listen-0.6.2.swiplet",
-      "size": 18664,
-      "sha256": "312b96aaa435d02c1d66f367f688d72b7f042dfd02fb3c7bbe1d82146c383ddd"
+      "url": "soda-free-listen-0.7.0.swiplet",
+      "size": 19063,
+      "sha256": "257385c519c4144bbf9547bdc229875699676f0bdf5bae3c5dfd52cd09c0b87c"
     }
   ]
 }
